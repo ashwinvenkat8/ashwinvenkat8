@@ -1,8 +1,9 @@
 <h1 align="center">Hi 👋, I'm Ashwin</h1>
 <h3 align="center">A computer science student with strong engineering experience</h3>
 <p align="center">Currently, I'm working on the application of AI in identifying database vulnerabilities.</p>
-<p align="center">Ask me about software development, security, DevOps, or anything else you like. A good conversation helps us grow :)</p>
-<h3 align="center">I've worked with</h3>
+<p align="left"><a href="mailto:ashwinvenkat@protonmail.com" ref="noreferrer">Ask me</a> about software development, security, DevOps, or anything else you like. A good conversation can help us grow :)</p>
+<h3 align="left">I write <a href="https://gists.github.com/ashwinvenkat8" rel="noreferrer">here</a>.</h3>
+<h3 align="left">I've worked with:</h3>
 <p align="center">
     <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40" /></a>
     <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40" /></a>
