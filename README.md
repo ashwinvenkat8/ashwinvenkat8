@@ -1,9 +1,10 @@
-<h1 align="center">Hi 👋, I'm Ashwin</h1>
-<h3 align="center">A computer science student with strong engineering experience</h3>
-<p align="center">Currently, I'm working on the application of AI in identifying database vulnerabilities.</p>
-<p align="center"><a href="mailto:ashwinvenkat@protonmail.com" ref="noreferrer">Ask me</a> about software development, security, DevOps, or anything else you like. A good conversation can help us grow :)</p>
+<h1 align="center">Hey 👋, I'm Ashwin</h1>
+<h3 align="center">A computer science graduate with strong engineering experience.</h3>
+<p align="center">At the moment, I am looking for my next engineering role. So, if you're hiring or you know someone who is, I'd appreciate an <a href="mailto:ashwinvenkat@protonmail.com" ref="noreferrer">introduction</a>.</p>
+<p align="center">I'm also working on the application of AI in identifying open source database vulnerability patterns.</p>
+<p align="center"><a href="mailto:ashwinvenkat@protonmail.com" ref="noreferrer">Ask me</a> about software engineering, security, DevOps, or anything else you like. A good conversation can help us grow :)</p>
 <h3 align="center">I write <a href="https://awvk.medium.com/" rel="noreferrer">here</a>.</h3>
-<h3 align="center">I've worked with:</h3>
+<h3 align="center">I've built with:</h3>
 <p align="center">
     <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40" /></a>
     <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40" /></a>
