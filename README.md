@@ -1,6 +1,6 @@
 <h1 align="center">Hey 👋, I'm Ashwin</h1>
 <h3 align="center">A computer science graduate with strong engineering experience.</h3>
-<p align="center">At the moment, I am looking for my next engineering role. So, if you're hiring or you know someone who is, I'd appreciate an <a href="mailto:ashwinvenkat@protonmail.com" ref="noreferrer">introduction</a>.</p>
+<p align="center">At the moment, I am looking for my next engineering role. If you're hiring or you know someone who is, I'd appreciate an <a href="mailto:ashwinvenkat@protonmail.com" ref="noreferrer">introduction</a>.</p>
 <p align="center">I'm also working on the application of AI in identifying open source database vulnerability patterns.</p>
 <p align="center"><a href="mailto:ashwinvenkat@protonmail.com" ref="noreferrer">Ask me</a> about software engineering, security, DevOps, or anything else you like. A good conversation can help us grow :)</p>
 <h3 align="center">I write <a href="https://awvk.medium.com/" rel="noreferrer">here</a>.</h3>
